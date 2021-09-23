@@ -3,7 +3,7 @@ You're sections headers will be used to reference location of destination.
 
 - [Overview](#overview)
 - [Architecture](#architecture)
-- [Local Development](#local-development)
+- [Development](#development)
 - [API Reference](#api-reference)
 - [Project Contacts](#project-contacts)
 
@@ -49,7 +49,9 @@ Provide a description with how the project is structured, with notable/important
 
 ---
 
-## Local Development
+## Development
+
+### Local Development
 Give a detailed description on how to get the project running, starting at cloning the repository all the way though so someone can have the project running on their machine, and contribute to the project. This should be detailed enough that anyone can pull down and start the project, regardless of skill level. If this requires a deeper understanding, or technical requirements that require training, please list this as well.
 
 Example (it will likely be more detailed than this, especially on a mature project):
@@ -66,6 +68,10 @@ Give a detailed description of anything in the project that may be hard to under
 
 ### Project Gotchas
 Describe any workarounds, edge cases, or anything to look out for that may promote unexpected behaviour. This should include any oddities someone may need to know when running or building the project, and also deploying it. 
+
+### Deployment
+Provide the necessary steps required to deploy the project, and give details for each environment (staging, production, etc). Again, this should be detailed enough that someone who is not familiar with the project can deploy without any issues. Where required, please link to any external documentation the development may need to refer to when attempting to deploy the project.
+
 
 [Back To The Top](#read-me-template)
 
