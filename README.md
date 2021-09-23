@@ -72,7 +72,7 @@ Describe any workarounds, edge cases, or anything to look out for that may promo
 ---
 
 ## API Reference
-This should describe where your API documentation is located – usually this will be in Insomnia, but could also an address or location for external client API docs, or in cases where tools are used instead of standard API backends (ex. Firebase, Cloud functions, etc.)
+This should describe where your API documentation is located – usually this will be in Insomnia, but could also be an address or location for external client API docs, or in cases where tools are used instead of standard API backends (ex. Firebase, Cloud functions, etc.)
 
 [Back To The Top](#read-me-template)
 
