@@ -1,5 +1,5 @@
 ## Table of Contents
-You're sections headers will be used to reference location of destination.
+Sections headers will be used to reference location of destination.
 
 - [Overview](#overview)
 - [Architecture](#architecture)
